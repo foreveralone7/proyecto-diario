@@ -45,4 +45,4 @@ Descomprimir los proyectos directamente en `L:\Estudio 365\` desde el principio,
 
 ## ⏱️ Tiempo invertido
 
-_(completar)_
+Día 2: de 9:45 a. m. a 10:25 a. m., cerca de 1 hora

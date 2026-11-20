@@ -48,4 +48,4 @@ Revisar con `git status` qué archivos se van a subir antes de hacer el commit.
 
 ## ⏱️ Tiempo invertido
 
-_(completar)_
+Día 1: de 7:45 p. m. a 10:20 p. m., unas 2 horas y media
