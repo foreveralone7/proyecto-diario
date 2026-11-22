@@ -12,6 +12,7 @@ En esta bitácora registro qué construí, qué aprendí y, sobre todo, **qué p
 |---|---|---|---|---|---|---|
 | 01 | 2026-11-19 | Dashboard del clima en Colombia | Frontend | JavaScript · HTML · CSS · Chart.js | [Repo](https://github.com/foreveralone7/dia-01-clima) | [Ver en vivo](https://foreveralone7.github.io/dia-01-clima/) |
 | 02 | 2026-11-20 | API de destinos turísticos de Colombia | Backend | Python · FastAPI · pytest | [Repo](https://github.com/foreveralone7/dia-02-api-destinos) | Local (Swagger) |
+| 03 | 2026-11-21 | Organizador de archivos | Terminal (CLI) | Rust · clap | [Repo](https://github.com/foreveralone7/dia-03-organizador) | — |
 
 📖 Las notas de cada día están en la carpeta [`dias/`](dias/).
 🐛 Los problemas que he resuelto están reunidos en [`ERRORES.md`](ERRORES.md).
@@ -22,6 +23,7 @@ En esta bitácora registro qué construí, qué aprendí y, sobre todo, **qué p
 |---|---|
 | JavaScript | 01 |
 | Python | 02 |
+| Rust | 03 |
 
 ## 📏 Reglas del reto
 
