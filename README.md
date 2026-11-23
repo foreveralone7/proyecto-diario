@@ -14,6 +14,7 @@ En esta bitácora registro qué construí, qué aprendí y, sobre todo, **qué p
 | 02 | 2026-11-20 | API de destinos turísticos de Colombia | Backend | Python · FastAPI · pytest | [Repo](https://github.com/foreveralone7/dia-02-api-destinos) | Local (Swagger) |
 | 03 | 2026-11-21 | Organizador de archivos | Terminal (CLI) | Rust · clap | [Repo](https://github.com/foreveralone7/dia-03-organizador) | — |
 | 04 | 2026-11-22 | Juego de la serpiente | Videojuegos | Java · Swing | [Repo](https://github.com/foreveralone7/dia-04-serpiente) | — |
+| 05 | 2026-11-23 | Podcast automático con voces de IA local | IA local + audio | Python · Kokoro | [Repo](https://github.com/foreveralone7/dia-05-podcast) | [Escuchar](https://foreveralone7.github.io/dia-05-podcast/) |
 
 📖 Las notas de cada día están en la carpeta [`dias/`](dias/).
 🐛 Los problemas que he resuelto están reunidos en [`ERRORES.md`](ERRORES.md).
@@ -26,6 +27,7 @@ En esta bitácora registro qué construí, qué aprendí y, sobre todo, **qué p
 | Python | 02 |
 | Rust | 03 |
 | Java | 04 |
+| Python | 02, 05 |
 
 ## 📏 Reglas del reto
 
